@@ -1,4 +1,4 @@
-# 🧠 Digital Twin Career Engine
+#  Digital Twin Career Engine
 
 An AI-powered "Digital Twin" that analyzes a user's skills, interests, and digital footprint to predict optimal career paths, identify skill gaps, and guide professional growth.
 
